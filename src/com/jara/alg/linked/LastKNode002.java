@@ -36,5 +36,5 @@ public class LastKNode002 {
         }
         System.out.println(pos.value);;
     }
-    
+
 }
